@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nutrition-tracker-react/static/css/main.8a67dde6.css",
+    "main.js": "/nutrition-tracker-react/static/js/main.02420148.js",
+    "index.html": "/nutrition-tracker-react/index.html",
+    "main.8a67dde6.css.map": "/nutrition-tracker-react/static/css/main.8a67dde6.css.map",
+    "main.02420148.js.map": "/nutrition-tracker-react/static/js/main.02420148.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a67dde6.css",
+    "static/js/main.02420148.js"
+  ]
+}
